@@ -2,16 +2,9 @@
   ============================================================
   rKyzen — GitHub Profile README
   ------------------------------------------------------------
-  REPLACE THESE PLACEHOLDERS BEFORE PUSHING:
-  1. YOUR_GITHUB_USERNAME   -> your GitHub username (used in all stats/widget URLs)
-  2. ORIGIN_LABS_ORG        -> GitHub org/username for Origin Labs (if applicable)
-  3. ORIGIN_CAMERA_REPO     -> repo name for Origin Camera
-  4. ORIGIN_LAUNCHER_REPO   -> repo name for your launcher project
-  5. ORIGIN_UTILITY_REPO    -> repo name for a utility/productivity project
-  6. YOUR_LINKEDIN          -> LinkedIn handle
-  7. YOUR_TWITTER           -> X / Twitter handle
-  8. YOUR_EMAIL             -> contact email
-  9. YOUR_PORTFOLIO_URL     -> Origin Labs / portfolio website link
+  Filled in: GitHub username (rKyzen), Origin Camera repo,
+  Origin Launcher repo, Origin Labs site (vercel), and email.
+  Nothing left to replace — ready to push as-is.
   ============================================================
 -->
 
@@ -25,17 +18,15 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rKyzen&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/ORIGIN%20LABS-FOUNDER-9333EA?style=for-the-badge&labelColor=0D0221" alt="Founder"/>
 <img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge&labelColor=0D0221" alt="Status"/>
 <img src="https://img.shields.io/badge/OPEN%20TO-PARTNERSHIPS-1A1A2E?style=for-the-badge&color=6D28D9" alt="Open to partnerships"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=A855F7" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Origin%20Labs-0A0A0A?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
+<a href="mailto:shivankdan@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
+<a href="https://origin-labs-two.vercel.app/"><img src="https://img.shields.io/badge/Origin%20Labs-0A0A0A?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
 
 </div>
 
@@ -140,11 +131,8 @@ From single-developer experiments to a real product lineup — Origin Camera is 
 
 <div align="center">
 
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="https://origin-labs-two.vercel.app/">
   <img src="https://img.shields.io/badge/Visit%20Origin%20Labs-000000?style=for-the-badge&logo=vercel&logoColor=A855F7"/>
-</a>
-<a href="https://github.com/ORIGIN_LABS_ORG">
-  <img src="https://img.shields.io/badge/Origin%20Labs%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7"/>
 </a>
 
 </div>
@@ -167,7 +155,7 @@ From single-developer experiments to a real product lineup — Origin Camera is 
 
 A computational photography platform for Android — built around multi-frame stacking, custom color science, and pro-grade manual controls, wrapped in an interface that gets out of the photographer's way.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ORIGIN_CAMERA_REPO"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
+<a href="https://github.com/rKyzen/Origin-Camera"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
 
 </td>
 </tr>
@@ -180,20 +168,7 @@ A computational photography platform for Android — built around multi-frame st
 
 A minimal, performance-first Android launcher built around speed, gesture-driven navigation, and a distraction-free home screen experience.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ORIGIN_LAUNCHER_REPO"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### ⚙️ Origin Utilities
-<img src="https://img.shields.io/badge/Android-9333EA?style=flat-square&logo=android&logoColor=white&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/Productivity-A855F7?style=flat-square&labelColor=0D0221"/>
-
-A growing collection of focused productivity tools and system utilities — built small, fast, and purpose-driven instead of bloated all-in-one apps.
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ORIGIN_UTILITY_REPO"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
+<a href="https://github.com/rKyzen/Origin-Launcher"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
 
 </td>
 </tr>
@@ -242,16 +217,16 @@ Experimental builds, prototypes, and the next Origin Labs product are always in 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=C4B5FD&text_color=E5E7EB&ring_color=7C3AED" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=E5E7EB&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rKyzen&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=C4B5FD&text_color=E5E7EB&ring_color=7C3AED" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rKyzen&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=E5E7EB&langs_count=8" width="40%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true&background=0D0221&stroke=7C3AED&ring=A855F7&fire=C4B5FD&currStreakLabel=A855F7&sideLabels=E5E7EB&dates=9CA3AF" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=rKyzen&theme=highcontrast&hide_border=true&background=0D0221&stroke=7C3AED&ring=A855F7&fire=C4B5FD&currStreakLabel=A855F7&sideLabels=E5E7EB&dates=9CA3AF" width="80%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D0221&color=A855F7&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rKyzen&theme=react-dark&bg_color=0D0221&color=A855F7&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -261,7 +236,7 @@ Experimental builds, prototypes, and the next Origin Labs product are always in 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=rKyzen&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -274,9 +249,9 @@ Experimental builds, prototypes, and the next Origin Labs product are always in 
 <!--
   Generated via the Platane/snk GitHub Action.
   Add the workflow below to .github/workflows/snake.yml in the repo named
-  YOUR_GITHUB_USERNAME (your profile repo) to keep this animated and up to date.
+  rKyzen (your profile repo) to keep this animated and up to date.
 -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rKyzen/rKyzen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -301,7 +276,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: rKyzen
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
