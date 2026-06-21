@@ -4,99 +4,100 @@
   ------------------------------------------------------------
   REPLACE THESE PLACEHOLDERS BEFORE PUSHING:
   1. YOUR_GITHUB_USERNAME   -> your GitHub username (used in all stats/widget URLs)
-  2. ORIGIN_CAMERA_REPO     -> repo name for Origin Camera (e.g. origin-camera)
-  3. YOUR_LINKEDIN          -> LinkedIn handle
-  4. YOUR_TWITTER           -> X / Twitter handle
-  5. YOUR_EMAIL             -> contact email
-  6. YOUR_PORTFOLIO_URL     -> portfolio / website link
+  2. ORIGIN_LABS_ORG        -> GitHub org/username for Origin Labs (if applicable)
+  3. ORIGIN_CAMERA_REPO     -> repo name for Origin Camera
+  4. ORIGIN_LAUNCHER_REPO   -> repo name for your launcher project
+  5. ORIGIN_UTILITY_REPO    -> repo name for a utility/productivity project
+  6. YOUR_LINKEDIN          -> LinkedIn handle
+  7. YOUR_TWITTER           -> X / Twitter handle
+  8. YOUR_EMAIL             -> contact email
+  9. YOUR_PORTFOLIO_URL     -> Origin Labs / portfolio website link
   ============================================================
 -->
 
 <div align="center">
 
-<!-- Animated typing banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6D28D9,100:000000&height=240&section=header&text=ORIGIN%20LABS&fontSize=64&fontColor=C4B5FD&animation=fadeIn&fontAlignY=35&desc=Founded%20%26%20Engineered%20by%20rKyzen&descAlignY=55&descSize=20&descColor=A78BFA" width="100%"/>
+
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+rKyzen+%F0%9F%91%8B;Android+Engineer+%7C+Computational+Photography;Building+Origin+Camera+%F0%9F%93%B7;Drones+%E2%80%A2+Electronics+%E2%80%A2+AI+%E2%80%A2+Software+Engineering;Curious+Builder+%7C+Perpetual+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+rKyzen;Founder+%26+Lead+Developer+at+Origin+Labs;Building+Ambitious+Software+Products;Android+Engineer+%7C+Product+Designer+%7C+Startup+Builder;Currently+Shipping%3A+Origin+Camera" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Hero banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6D28D9,100:000000&height=220&section=header&text=rKyzen&fontSize=70&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20Mobile%20Engineering%20%26%20Computational%20Photography&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/ORIGIN%20LABS-FOUNDER-9333EA?style=for-the-badge&labelColor=0D0221" alt="Founder"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge&labelColor=0D0221" alt="Status"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-PARTNERSHIPS-1A1A2E?style=for-the-badge&color=6D28D9" alt="Open to partnerships"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>
+<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=A855F7" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Origin%20Labs-0A0A0A?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20ORIGIN%20CAMERA-9333EA?style=for-the-badge&labelColor=0D0221" alt="Status"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-1A1A2E?style=for-the-badge&color=7C3AED" alt="Open to collaboration"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=A855F7" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
-</p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> About Me
+## 👤 About Me
 
 <table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ```kotlin
-class rKyzen : Developer() {
+class rKyzen : Founder, Engineer {
 
-    val name           = "rKyzen"
-    val role           = "Student Developer · Android Engineer"
-    val focus          = listOf(
-        "Android Development",
+    val name      = "rKyzen"
+    val role      = "Founder & Lead Developer, Origin Labs"
+    val status    = "Student Developer"
+
+    val identity  = listOf(
+        "Builder",
+        "Product Designer",
+        "Software Architect",
+        "Startup Creator"
+    )
+
+    val expertise = listOf(
+        "Android Development (Kotlin / Java)",
+        "Software Architecture",
+        "Product & UI/UX Design",
         "Computational Photography",
-        "Electronics & Embedded Systems",
-        "Drones & Aerial Systems",
-        "Artificial Intelligence",
-        "Software Engineering"
+        "Electronics & AI Experiments"
     )
 
-    val flagshipProject = "Origin Camera"
-    val philosophy       = "Engineering meets aesthetics."
-
-    fun currentlyExploring() = listOf(
-        "Multi-frame image stacking",
-        "Color science & tone mapping",
-        "On-device ML for image enhancement",
-        "Low-level Android camera pipelines (Camera2 / CameraX)"
-    )
+    fun mission() =
+        "Design and ship ambitious software products " +
+        "with the polish of a studio and the speed of a startup."
 
     override fun toString() =
-        "Building tools that turn raw sensor data into something beautiful."
+        "Building Origin Labs, one product at a time."
 }
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 **Who I am**
 
-A student developer obsessed with the gap between *raw hardware output* and *refined user experience*. I build Android software that pushes phone cameras past their stock limits, and I tinker with drones, circuits, and embedded electronics on the side.
+I'm the founder and lead developer behind **Origin Labs** — an independent software studio I'm building as a student, with the ambition of a startup. I design, architect, and ship the products myself: from concept and UI to the lowest-level engineering underneath.
 
-**What drives me**
+**How I work**
 
-- Reverse-engineering how flagship cameras process light
-- Designing interfaces that feel premium, not just functional
-- Shipping fast, iterating faster
-- Learning hardware-to-software pipelines end-to-end
+- Own the full stack: product vision → architecture → implementation → polish
+- Obsess over UX as much as performance
+- Treat every release as a craft, not a checkbox
+- Move fast, but never ship anything unfinished
 
-**Currently**
+**Right now**
 
-🔭 Engineering **Origin Camera** — a computational photography pipeline for Android
-🌱 Deepening expertise in image processing & color science
-⚡ Prototyping electronics + flight systems for drone projects
+🏗️ Building out the **Origin Labs** product line
+📸 Leading engineering on **Origin Camera**
+🧪 Prototyping the next products in the lineup
+📈 Learning what it takes to turn a studio into a company
 
 </td>
 </tr>
@@ -104,46 +105,109 @@ A student developer obsessed with the gap between *raw hardware output* and *ref
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-## 📷 Featured Project
+## 🏢 Building Origin Labs
 
 <div align="center">
-
-### Origin Camera
-
-<img src="https://img.shields.io/badge/Platform-Android-7C3AED?style=for-the-badge&logo=android&logoColor=white&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/Language-Kotlin-9333EA?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/Domain-Computational%20Photography-A855F7?style=for-the-badge&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/Status-In%20Development-6D28D9?style=for-the-badge&labelColor=0D0221"/>
-
+<img src="https://img.shields.io/badge/ORIGIN%20LABS-Independent%20Software%20Studio-000000?style=for-the-badge&labelColor=0D0221&color=7C3AED"/>
 </div>
+
+<br/>
+
+> **Origin Labs** is the studio I founded to build software that doesn't feel like a student project — Android applications, utilities, launchers, camera systems, productivity tools, and experimental products, all designed with the same bar for craftsmanship as a funded startup.
 
 <table align="center">
 <tr>
-<td width="100%">
+<td width="33%" align="center">
 
-> **Origin Camera** is a from-scratch Android camera application engineered for computational photography — built to extract more detail, color accuracy, and dynamic range than the stock camera pipeline allows.
+**🎯 Philosophy**
+Every product should feel deliberate — fast, beautiful, and obviously made by someone who cares about the details.
 
-**Core engineering pillars:**
+</td>
+<td width="33%" align="center">
 
-| Module | Focus |
-|---|---|
-| 🧮 **Multi-Frame Stacking** | Burst capture alignment & noise-reduction through frame fusion |
-| 🎨 **Color Science** | Custom tone mapping, white balance modeling, and sensor-accurate color pipelines |
-| 🔬 **Sharpness Enhancement** | Detail recovery and edge-aware sharpening algorithms |
-| ⚙️ **Image Processing Pipeline** | Low-level Camera2 / CameraX control with custom RAW & YUV processing |
-| 🎛️ **Pro Camera Controls** | Manual exposure, focus, ISO, shutter, and RAW capture for full creative control |
-| ✨ **UI/UX** | A premium, minimal capture interface designed not to get in the way of the shot |
+**🛠️ Approach**
+Small, focused team of one (for now). Full ownership of architecture, design systems, and shipping pipeline.
 
-<div align="center">
+</td>
+<td width="33%" align="center">
 
-<!-- Replace with actual repo link -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ORIGIN_CAMERA_REPO">
-  <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
-</a>
+**🚀 Trajectory**
+From single-developer experiments to a real product lineup — Origin Camera is the first flagship, not the last.
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Visit%20Origin%20Labs-000000?style=for-the-badge&logo=vercel&logoColor=A855F7"/>
+</a>
+<a href="https://github.com/ORIGIN_LABS_ORG">
+  <img src="https://img.shields.io/badge/Origin%20Labs%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🚀 Featured Products
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+### 📷 Origin Camera
+<img src="https://img.shields.io/badge/Flagship-7C3AED?style=flat-square&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/Android-9333EA?style=flat-square&logo=android&logoColor=white&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/Kotlin-A855F7?style=flat-square&logo=kotlin&logoColor=white&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/In%20Development-6D28D9?style=flat-square&labelColor=0D0221"/>
+
+A computational photography platform for Android — built around multi-frame stacking, custom color science, and pro-grade manual controls, wrapped in an interface that gets out of the photographer's way.
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/ORIGIN_CAMERA_REPO"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🧭 Origin Launcher
+<img src="https://img.shields.io/badge/Android-9333EA?style=flat-square&logo=android&logoColor=white&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/Concept%20%2F%20In%20Progress-6D28D9?style=flat-square&labelColor=0D0221"/>
+
+A minimal, performance-first Android launcher built around speed, gesture-driven navigation, and a distraction-free home screen experience.
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/ORIGIN_LAUNCHER_REPO"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### ⚙️ Origin Utilities
+<img src="https://img.shields.io/badge/Android-9333EA?style=flat-square&logo=android&logoColor=white&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/Productivity-A855F7?style=flat-square&labelColor=0D0221"/>
+
+A growing collection of focused productivity tools and system utilities — built small, fast, and purpose-driven instead of bloated all-in-one apps.
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/ORIGIN_UTILITY_REPO"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="100%" align="center">
+
+### 🧪 More in the Lab
+Experimental builds, prototypes, and the next Origin Labs product are always in motion. Watch this profile for what ships next.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
@@ -155,24 +219,20 @@ A student developer obsessed with the gap between *raw hardware output* and *ref
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,python,c,js&theme=dark"/>
 
-**Android & Mobile**
+**Android & Mobile Engineering**
 
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,firebase&theme=dark"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-7C3AED?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=0D0221"/>
 <img src="https://img.shields.io/badge/CameraX-9333EA?style=for-the-badge&logo=android&logoColor=white&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/Camera2%20API-A855F7?style=for-the-badge&logo=android&logoColor=white&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/MVVM%20%2F%20Clean%20Architecture-A855F7?style=for-the-badge&labelColor=0D0221"/>
 
-**AI / Image Processing**
+**Product, Design & AI**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=figma,tensorflow,pytorch,opencv&theme=dark"/>
 
-**Electronics & Embedded**
+**Electronics & Tools**
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark"/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,linux,vscode&theme=dark"/>
 
 </div>
 
@@ -213,7 +273,7 @@ A student developer obsessed with the gap between *raw hardware output* and *ref
 
 <!--
   Generated via the Platane/snk GitHub Action.
-  Add the workflow below to .github/workflows/snake.yml in a repo named
+  Add the workflow below to .github/workflows/snake.yml in the repo named
   YOUR_GITHUB_USERNAME (your profile repo) to keep this animated and up to date.
 -->
 <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -259,9 +319,9 @@ jobs:
 
 <div align="center">
 
-### Let's build something sharp.
+### Origin Labs is just getting started.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=600&lines=Open+to+Android+%2B+Computational+Photography+collabs;Always+experimenting+%E2%80%94+always+shipping." alt="Footer Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=650&lines=Founder+%26+Lead+Developer+%E2%80%94+Origin+Labs;Open+to+collaborators%2C+partners%2C+and+early+believers." alt="Footer Typing SVG"/>
 
 <br/>
 
