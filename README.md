@@ -16,7 +16,7 @@
 
 **Developer building practical software, close to the hardware.**
 
-Founder & Lead Developer at **[Origin Labs](https://origin-labs-two.vercel.app)** — an independent software studio building Android applications that do their job and get out of the way.
+Founder & Lead Developer at **[_init_]((https://init-android.netlify.app/))** — an independent software studio building Android applications that do their job and get out of the way.
 
 Currently a Class 9 student, shipping real products in the meantime.
 
@@ -88,7 +88,7 @@ Currently a Class 9 student, shipping real products in the meantime.
 <div align="center">
 
 [![Website](https://img.shields.io/badge/rkyzen.netlify.app-0D0D0D?style=for-the-badge&logo=vercel&logoColor=A855F7)](https://rkyzen.netlify.app/)
-[![Origin Labs](https://img.shields.io/badge/Origin_Labs-0D0D0D?style=for-the-badge&logo=android&logoColor=A855F7)](https://origin-labs-two.vercel.app)
+[![_init_](https://img.shields.io/badge/_init_-0D0D0D?style=for-the-badge&logo=android&logoColor=A855F7)](https://init-android.netlify.app/)
 [![GitHub](https://img.shields.io/badge/rKyzen-0D0D0D?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/rKyzen)
 
 </div>
