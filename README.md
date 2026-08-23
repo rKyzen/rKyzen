@@ -1,305 +1,104 @@
-<!--
-  ============================================================
-  rKyzen — GitHub Profile README
-  ------------------------------------------------------------
-  Filled in: GitHub username (rKyzen), Origin Camera repo,
-  Origin Launcher repo, Origin Labs site (vercel), and email.
-  Nothing left to replace — ready to push as-is.
-  ============================================================
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6D28D9,100:000000&height=240&section=header&text=ORIGIN%20LABS&fontSize=64&fontColor=C4B5FD&animation=fadeIn&fontAlignY=35&desc=Founded%20%26%20Engineered%20by%20rKyzen&descAlignY=55&descSize=20&descColor=A78BFA" width="100%"/>
-
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+rKyzen;Founder+%26+Lead+Developer+at+Origin+Labs;Building+Ambitious+Software+Products;Android+Engineer+%7C+Product+Designer+%7C+Startup+Builder;Currently+Shipping%3A+Origin+Camera" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rKyzen&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/ORIGIN%20LABS-FOUNDER-9333EA?style=for-the-badge&labelColor=0D0221" alt="Founder"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge&labelColor=0D0221" alt="Status"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-PARTNERSHIPS-1A1A2E?style=for-the-badge&color=6D28D9" alt="Open to partnerships"/>
-
-<br/><br/>
-
-<a href="mailto:shivankdan@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
-<a href="https://origin-labs-two.vercel.app/"><img src="https://img.shields.io/badge/Origin%20Labs-0A0A0A?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=system+process%2C+not+an+app.;fast.+useful.+intentionally+simple.;building+close+to+the+hardware." alt="Typing SVG" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<br>
 
-## 👤 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1A0B2E&height=3&section=header" width="100%"/>
+</div>
 
-<table align="center">
-<tr>
-<td width="58%" valign="top">
+<br>
 
-```kotlin
-class rKyzen : Founder, Engineer {
+# `rKyzen`
 
-    val name      = "rKyzen"
-    val role      = "Founder & Lead Developer, Origin Labs"
-    val status    = "Student Developer"
+**Developer building practical software, close to the hardware.**
 
-    val identity  = listOf(
-        "Builder",
-        "Product Designer",
-        "Software Architect",
-        "Startup Creator"
-    )
+Founder & Lead Developer at **[Origin Labs](https://origin-labs-two.vercel.app)** — an independent software studio building Android applications that do their job and get out of the way.
 
-    val expertise = listOf(
-        "Android Development (Kotlin / Java)",
-        "Software Architecture",
-        "Product & UI/UX Design",
-        "Computational Photography",
-        "Electronics & AI Experiments"
-    )
+Currently a Class 9 student, shipping real products in the meantime.
 
-    fun mission() =
-        "Design and ship ambitious software products " +
-        "with the polish of a studio and the speed of a startup."
+<br>
 
-    override fun toString() =
-        "Building Origin Labs, one product at a time."
-}
+## `> currently building`
+
+**`_init_`** — a minimal, utility-focused Android project.
+> init — a system process, not an app.
+
+🔗 [init-android.netlify.app](https://init-android.netlify.app/)
+
+<br>
+
+## `> interests`
+
+```
+├── software development & system design
+├── AI & intelligent applications
+├── electronics & hardware
+├── android development
+├── automation & embedded systems
+└── open-source
 ```
 
-</td>
-<td width="42%" valign="top">
-
-**Who I am**
-
-I'm the founder and lead developer behind **Origin Labs** — an independent software studio I'm building as a student, with the ambition of a startup. I design, architect, and ship the products myself: from concept and UI to the lowest-level engineering underneath.
-
-**How I work**
-
-- Own the full stack: product vision → architecture → implementation → polish
-- Obsess over UX as much as performance
-- Treat every release as a craft, not a checkbox
-- Move fast, but never ship anything unfinished
-
-**Right now**
-
-🏗️ Building out the **Origin Labs** product line
-📸 Leading engineering on **Origin Camera**
-🧪 Prototyping the next products in the lineup
-📈 Learning what it takes to turn a studio into a company
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## 🏢 Building Origin Labs
-
-<div align="center">
-<img src="https://img.shields.io/badge/ORIGIN%20LABS-Independent%20Software%20Studio-000000?style=for-the-badge&labelColor=0D0221&color=7C3AED"/>
-</div>
-
-<br/>
-
-> **Origin Labs** is the studio I founded to build software that doesn't feel like a student project — Android applications, utilities, launchers, camera systems, productivity tools, and experimental products, all designed with the same bar for craftsmanship as a funded startup.
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-**🎯 Philosophy**
-Every product should feel deliberate — fast, beautiful, and obviously made by someone who cares about the details.
-
-</td>
-<td width="33%" align="center">
-
-**🛠️ Approach**
-Small, focused team of one (for now). Full ownership of architecture, design systems, and shipping pipeline.
-
-</td>
-<td width="33%" align="center">
-
-**🚀 Trajectory**
-From single-developer experiments to a real product lineup — Origin Camera is the first flagship, not the last.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://origin-labs-two.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit%20Origin%20Labs-000000?style=for-the-badge&logo=vercel&logoColor=A855F7"/>
-</a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## 🚀 Featured Products
-
-<div align="center">
-
-<table>
-<tr>
-<td width="100%">
-
-### 📷 Origin Camera
-<img src="https://img.shields.io/badge/Flagship-7C3AED?style=flat-square&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/Android-9333EA?style=flat-square&logo=android&logoColor=white&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/Kotlin-A855F7?style=flat-square&logo=kotlin&logoColor=white&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/In%20Development-6D28D9?style=flat-square&labelColor=0D0221"/>
-
-A computational photography platform for Android — built around multi-frame stacking, custom color science, and pro-grade manual controls, wrapped in an interface that gets out of the photographer's way.
-
-<a href="https://github.com/rKyzen/Origin-Camera"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 🧭 Origin Launcher
-<img src="https://img.shields.io/badge/Android-9333EA?style=flat-square&logo=android&logoColor=white&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/Concept%20%2F%20In%20Progress-6D28D9?style=flat-square&labelColor=0D0221"/>
-
-A minimal, performance-first Android launcher built around speed, gesture-driven navigation, and a distraction-free home screen experience.
-
-<a href="https://github.com/rKyzen/Origin-Launcher"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="100%" align="center">
-
-### 🧪 More in the Lab
-Experimental builds, prototypes, and the next Origin Labs product are always in motion. Watch this profile for what ships next.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,cpp,python,c,js&theme=dark"/>
-
-**Android & Mobile Engineering**
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,firebase&theme=dark"/>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-7C3AED?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/CameraX-9333EA?style=for-the-badge&logo=android&logoColor=white&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/MVVM%20%2F%20Clean%20Architecture-A855F7?style=for-the-badge&labelColor=0D0221"/>
-
-**Product, Design & AI**
-
-<img src="https://skillicons.dev/icons?i=figma,tensorflow,pytorch,opencv&theme=dark"/>
-
-**Electronics & Tools**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,linux,vscode&theme=dark"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rKyzen&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=C4B5FD&text_color=E5E7EB&ring_color=7C3AED" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rKyzen&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=E5E7EB&langs_count=8" width="40%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=rKyzen&theme=highcontrast&hide_border=true&background=0D0221&stroke=7C3AED&ring=A855F7&fire=C4B5FD&currStreakLabel=A855F7&sideLabels=E5E7EB&dates=9CA3AF" width="80%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rKyzen&theme=react-dark&bg_color=0D0221&color=A855F7&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## 🏆 Trophy Room
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rKyzen&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--
-  Generated via the Platane/snk GitHub Action.
-  Add the workflow below to .github/workflows/snake.yml in the repo named
-  rKyzen (your profile repo) to keep this animated and up to date.
--->
-<img src="https://raw.githubusercontent.com/rKyzen/rKyzen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<details>
-<summary align="center"><b>⚙️ Snake workflow (click to expand)</b></summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rKyzen
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<br>
+
+## `> philosophy`
+
+```diff
++ clean interfaces
++ efficient systems
++ privacy by default
++ solving actual problems
+- complexity for its own sake
 ```
 
-</details>
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+## `> stack`
 
 <div align="center">
 
-### Origin Labs is just getting started.
+![Kotlin](https://img.shields.io/badge/Kotlin-A855F7?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0D0D0D?style=for-the-badge&logo=jetpackcompose&logoColor=A855F7)
+![Android](https://img.shields.io/badge/Android-0D0D0D?style=for-the-badge&logo=android&logoColor=A855F7)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=A855F7)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=A855F7)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=650&lines=Founder+%26+Lead+Developer+%E2%80%94+Origin+Labs;Open+to+collaborators%2C+partners%2C+and+early+believers." alt="Footer Typing SVG"/>
+</div>
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6D28D9,100:0D0221&height=120&section=footer" width="100%"/>
+## `> stats`
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rKyzen&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7" alt="rKyzen's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rKyzen&hide_border=true&background=0D0D0D&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="rKyzen's GitHub streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rKyzen&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="rKyzen's most used languages" height="165"/>
+
+</div>
+
+<br>
+
+## `> connect`
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/rkyzen.netlify.app-0D0D0D?style=for-the-badge&logo=vercel&logoColor=A855F7)](https://rkyzen.netlify.app/)
+[![Origin Labs](https://img.shields.io/badge/Origin_Labs-0D0D0D?style=for-the-badge&logo=android&logoColor=A855F7)](https://origin-labs-two.vercel.app)
+[![GitHub](https://img.shields.io/badge/rKyzen-0D0D0D?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/rKyzen)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,100:0D0D0D&height=3&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+<sub>compiled, not written.</sub>
 </div>
